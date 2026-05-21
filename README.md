@@ -73,15 +73,14 @@
 
 ---
 
-### 📊 Thống kê GitHub
+### 🐍 Hành trình đóng góp
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HuuFuoc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuuFuoc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuuFuoc&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HuuFuoc/HuuFuoc/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HuuFuoc/HuuFuoc/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation ăn contribution graph" src="https://raw.githubusercontent.com/HuuFuoc/HuuFuoc/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
