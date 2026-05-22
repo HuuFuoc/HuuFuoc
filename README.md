@@ -85,26 +85,6 @@
 
 <br/>
 
-<!-- ====================== GITHUB STATS ====================== -->
-## 📊 Thống kê GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HuuFuoc&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuuFuoc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=HuuFuoc&theme=tokyonight&hide_border=true" alt="github streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=HuuFuoc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
-
-</div>
-
-<br/>
-
 <!-- ====================== SNAKE ANIMATION ====================== -->
 ## 🐍 Hành trình đóng góp
 
